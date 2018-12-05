@@ -15,7 +15,6 @@
 * 目录下面是main.py、WriteTextImage.py、ReadTextFromImage.py以及一张原始图片
 * 运行main.py,会根据指令选择执行哪份脚本
 * 执行写入文件，完成后会在目录下生成一个新的文件夹存放图片，读取的时候直接改变图片的像素点进行成像
-* 源码地址：<https://github.com/hongzhiqiang/Python3-WriteTextToImage>
 
 ### 下面分析主要的代码
 > 首先来看main.py中的实现,导入其他两个文件的方法，获取到执行选择，进行对应的操作
@@ -128,9 +127,5 @@ def readImage():
     print('*****您的文本已经成功解读************')
 ```
 
-#### 哈哈，终于解析完毕啦，当然真的吃鸡的时候可不要搞这种暗号，不然对方还以为你发这种漂亮的妹纸图过去是有什么想法呢,哈哈！ ^_^
-
-* 刚开始学习，闲着无聊写着总结了一下，欢迎交流......
-* 源码地址：<https://github.com/hongzhiqiang/Python3-WriteTextToImage>
 
 
